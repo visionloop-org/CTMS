@@ -44,6 +44,7 @@ CHECK_DIRS = [
     os.path.join(PROJECT_ROOT, "android", "app", "src", "main"),
     os.path.join(PROJECT_ROOT, "android", "app", "src", "main", "java", "com", "ctms", "app"),
     os.path.join(PROJECT_ROOT, "android", "app", "src", "main", "java", "com", "ctms", "app", "presentation"),
+    os.path.join(PROJECT_ROOT, "android", "app", "src", "main", "java", "com", "ctms", "app", "presentation", "theme"),
     os.path.join(PROJECT_ROOT, "android", "app", "src", "main", "java", "com", "ctms", "app", "data", "local"),
     os.path.join(PROJECT_ROOT, "android", "app", "src", "main", "java", "com", "ctms", "app", "data", "local", "entity"),
     os.path.join(PROJECT_ROOT, "android", "app", "src", "main", "java", "com", "ctms", "app", "data", "local", "dao"),

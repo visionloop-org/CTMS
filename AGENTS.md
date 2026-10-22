@@ -33,6 +33,10 @@ When writing code, refactoring, or generating tests, you MUST uphold these 5 cor
    - Under no circumstances may any file (source code, configuration, SQL migration, or documentation) exceed **1,000 lines**.
    - Any module approaching this threshold must be proactively decomposed into focused, single-responsibility components and sub-modules.
 
+7. **Strict Dark Theme Only (Industrial & Sunlight Contrast):**
+   - The Android mobile application must strictly enforce a high-contrast industrial Dark Theme across all screens and components.
+   - Light theme is explicitly prohibited to preserve battery on rugged OLED handhelds and guarantee outdoor legibility for delivery drivers and plant operators.
+
 ---
 
 ## 2. Agent Workflow & Execution Protocol

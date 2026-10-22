@@ -10,3 +10,4 @@ Refer to [AGENTS.md](file:///home/server/GoogleDrive/CylinderTrackingSystem/AGEN
 4. **Zoho Financial Sync:** Always use idempotency keys on Zoho Books / CRM / Inventory API calls.
 5. **Immutable Event Log:** Every cylinder movement appends to `cylinder_events`.
 6. **Strict Modular Limit:** No file may exceed 1,000 lines. Proactively decompose and refactor modules.
+7. **Strict Dark Theme Only:** Prohibit light mode across the Android app. Enforce high-contrast industrial dark theme.
